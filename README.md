@@ -87,7 +87,7 @@
                 <h3>Travel 3</h3>
                 <p>PITOGO CLIFF.</p>
                 <a href="#" class="btn-primary">
-                    <img src="travel 3.jpg" style="width: 200px; height: auto;"></a>
+                    <img src="travel3.jpg" style="width: 200px; height: auto;"></a>
             </div>
         </div>
     </div>
@@ -99,17 +99,17 @@
             <div class="wattpad-card">
                 <h3>w1.jpg</h3>
                 <a href="#" class="btn-primary">
-                    <img src="wattpad1.jpg" style="width: 200px; height: auto;"></a>
+                    <img src="w1.jpg" style="width: 200px; height: auto;"></a>
             </div>
             <div class="wattpad-card">
                 <h3>w2.jpg</h3>
                 <a href="#" class="btn-primary">
-                    <img src="wattpad2.jpg" style="width: 200px; height: auto;"></a>
+                    <img src="w2.jpg" style="width: 200px; height: auto;"></a>
             </div>
             <div class="travel-card">
                 <h3>w3.jpg</h3>
                 <a href="#" class="btn-primary">
-                    <img src="wattpad3.jpg" style="width: 200px; height: auto;"></a>
+                    <img src="w3.jpg" style="width: 200px; height: auto;"></a>
             </div>
         </div>
     </div>
