@@ -97,17 +97,17 @@
         <h2>Wattpad Reccomendation</h2>
         <div class="wattpad-grid">
             <div class="wattpad-card">
-                <h3>Wattpad 1</h3>
+                <h3>w1.jpg</h3>
                 <a href="#" class="btn-primary">
                     <img src="wattpad1.jpg" style="width: 200px; height: auto;"></a>
             </div>
             <div class="wattpad-card">
-                <h3>Wattpad 2</h3>
+                <h3>w2.jpg</h3>
                 <a href="#" class="btn-primary">
                     <img src="wattpad2.jpg" style="width: 200px; height: auto;"></a>
             </div>
             <div class="travel-card">
-                <h3>Wattpad 3</h3>
+                <h3>w3.jpg</h3>
                 <a href="#" class="btn-primary">
                     <img src="wattpad3.jpg" style="width: 200px; height: auto;"></a>
             </div>
