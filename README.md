@@ -75,7 +75,7 @@
                 <h3>Travel 1</h3>
                 <p>AMBOT OG AHA NI</p>
                 <a href="#" class="btn-primary">
-                    <img src="travel 1.jpg" style="width: 200px; height: auto;"></a>
+                    <img src="travel1.jpg" style="width: 200px; height: auto;"></a>
             </div>
             <div class="travel-card">
                 <h3>Travel 2</h3>
