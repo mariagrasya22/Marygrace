@@ -11,7 +11,7 @@
     <header>
         <div class="container">
             <div class="header-content">  
-                <img src="img2.jpg" style="width: 300px; height: auto;">
+                <img src="download.jpeg" style="width: 300px; height: auto;">
                 <h1>MARYGRACE</h1>
                 <p>FEEL FREE TO KNOW SOME OF MY LIKES!</p>
                 <a href="#contact" class="btn-primary">Message Me</a>
